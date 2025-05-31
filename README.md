@@ -37,10 +37,6 @@ npm install
 
 Create a `.env` file in the server directory:
 
-```bash
-MONGODB_URI=mongodb+srv://cicdPipelineUser:NrNwKLYyxuWj5gdj@cluster0.apnc6yx.mongodb.net/techquiz?retryWrites=true&w=majority&appName=Cluster0
-```
-
 ## Usage
 
 ```bash
